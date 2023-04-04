@@ -146,7 +146,7 @@ Then if you go to the repository in your account, you'll see the pull requrest p
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/dev89s/todo-list/issues).
+Feel free to check the [issues page](https://github.com/dev89s/unit-test-pracitce/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
